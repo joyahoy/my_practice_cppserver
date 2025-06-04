@@ -1,0 +1,1 @@
+void errif(bool, const char *);
